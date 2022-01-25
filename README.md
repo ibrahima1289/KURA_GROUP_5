@@ -26,7 +26,7 @@ In this python project, we will build an inventory store management application.
 1. **Front end**: **UI** (User Interface) is written in **HTML/CSS/Javascript/Bootstrap**
 2. **Backend**: Python and Flask
 3. **Database**: RDS mysql
-4. Here is how the app lauched:
+4. Here is the app ui when lauched:
 
 ![](frontend/images/app_page.PNG)
 
