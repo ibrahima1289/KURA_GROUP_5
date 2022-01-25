@@ -178,4 +178,5 @@ For [CloudWatch](https://github.com/ibrahima1289/kura-g5/blob/main/terraform/clo
 3. Configure [https](https://techexpert.tips/nginx/enable-https-nginx/) for NGINX.
 4. [MENTOR](https://www.templateshub.net/demo/Mentor-Bootstrap4-Admin-Dashboard-Template/icons-material.html), adding icons in HTML.
 5. Run Python [unit test](https://www.techiediaries.com/python-unit-tests-github-actions/).
+6. For the icons, see this [link](https://github.com/othneildrew/Best-README-Template).
 
