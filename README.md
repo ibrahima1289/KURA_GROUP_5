@@ -85,7 +85,7 @@ pip install mysql-connector-python
 6. Activate the virtual environment by running the commands below.
 ```
 python -m venv .venv
-Souce_path_to_file/.venv/scripts/activate
+Source path_to_file/.venv/scripts/activate
 ```
 
 If your using bash, go to windows powershell as administrator and **Set-ExecutionPolicy Unrestricted**.<br>
